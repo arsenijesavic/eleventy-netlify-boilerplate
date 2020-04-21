@@ -25,9 +25,3 @@ document.addEventListener(
   },
   { passive: true }
 );
-
-const toc = document.querySelectorAll("section aside nav ol li ol");
-// toc.forEach((node) => node.classList.add("hidden"));
-console.log(toc);
-
-console.log("HERE");

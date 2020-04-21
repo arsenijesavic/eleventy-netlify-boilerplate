@@ -294,8 +294,8 @@ S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophod
 
 ###### [Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
 
-> Impresum
-> Urednici: **Danilo Krivokapić i Đorđe Krivokapić**
-> Autori: **Jelena Adamović, Dunja Tasić, Jelena Kleut, Nina Nicović, Kristina Kalajdžić, Damjan Mileusnić, Danilo Krivokapić i Đorđe Krivokapić**
-> Dizajn: **Kristina Pavlak**
-> Obrada teksta: **Milica Jovanović i Bojan Perkov**
+Impresum
+Urednici: **Danilo Krivokapić i Đorđe Krivokapić**
+Autori: **Jelena Adamović, Dunja Tasić, Jelena Kleut, Nina Nicović, Kristina Kalajdžić, Damjan Mileusnić, Danilo Krivokapić i Đorđe Krivokapić**
+Dizajn: **Kristina Pavlak**
+Obrada teksta: **Milica Jovanović i Bojan Perkov**
