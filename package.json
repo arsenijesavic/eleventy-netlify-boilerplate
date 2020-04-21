@@ -1,38 +1,37 @@
 {
-  "name": "eleventy-netlify-boilerplate",
-  "version": "1.0.3",
-  "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
-  "homepage": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "name": "pandemija-mojipodaci-rs",
+  "version": "1.0.0",
+  "description": "pandemija-mojipodaci-rs",
+  "homepage": "https://pandemija.mojipodaci.rs",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
+    "url": "https://github.com/sharefoundation/pandemija-mojipodaci-rs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate"
+    "url": "https://github.com/sharefoundation/pandemija-mojipodaci-rs"
   },
   "license": "MIT",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://www.danurbanowicz.com/"
+    "name": "Arsenije Savić",
+    "email": "arsenijesavic@me.com",
+    "url": "https://arsenijesavic.com"
   },
   "scripts": {
     "build": "npx eleventy",
     "debug": "DEBUG=* npx eleventy",
+    "start": "npx eleventy --serve",
     "watch": "npx eleventy --watch"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0-beta.3",
     "@11ty/eleventy-navigation": "^0.1.5",
     "clean-css": "^4.2.3",
     "eleventy-plugin-nesting-toc": "^1.2.0",
-    "eleventy-plugin-toc": "^1.0.1",
     "html-minifier": "^4.0.0",
-    "uglify-es": "^3.3.9"
-  },
-  "devDependencies": {
-    "@11ty/eleventy": "^0.11.0-beta.3",
     "luxon": "^1.23.0",
     "markdown-it": "^10.0.0",
-    "markdown-it-anchor": "^5.2.7"
+    "markdown-it-anchor": "^5.2.7",
+    "uglify-es": "^3.3.9"
   }
 }
