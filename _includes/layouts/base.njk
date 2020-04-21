@@ -5,18 +5,28 @@
 
 	<body>
 
+<div id="_progress"></div>
+
 		<header>
-			<em>
+		<h2>
+		{{ metadata.title }}
+		</h2>
+			{# <em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
-			{% include "components/nav.njk" %}
+			</em> #}
+
+			{# {% include "components/nav.njk" %} #}
 		</header>
 
+		<aside>
+  		{{ content | toc | safe }}
+		</aside>
+
 		<main>
-			{{ layoutContent | safe }}
+			{{ content | safe }}
 		</main>
 
-		{% include "components/footer.njk" %}
+		{# {% include "components/footer.njk" %} #}
 
 	</body>
 

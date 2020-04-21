@@ -4,11 +4,20 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginTOC = require("eleventy-plugin-nesting-toc");
 
-module.exports = function(eleventyConfig) {
-
+module.exports = function (eleventyConfig) {
   // Eleventy Navigation https://www.11ty.dev/docs/plugins/navigation/
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
+  eleventyConfig.addPlugin(pluginTOC, {
+    tags: [
+      "h1",
+      "h2",
+      "h3",
+      // "h4", "h5",
+      "h6",
+    ],
+  });
 
   // Configuration API: use eleventyConfig.addLayoutAlias(from, to) to add
   // layout aliases! Say you have a bunch of existing content using
@@ -21,22 +30,22 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   // Date formatting (human readable)
-  eleventyConfig.addFilter("readableDate", dateObj => {
+  eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
+  eleventyConfig.addFilter("machineDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -46,12 +55,12 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
       return minified;
     }
@@ -59,11 +68,11 @@ module.exports = function(eleventyConfig) {
   });
 
   // Universal slug filter strips unsafe chars from URLs
-  eleventyConfig.addFilter("slugify", function(str) {
+  eleventyConfig.addFilter("slugify", function (str) {
     return slugify(str, {
       lower: true,
       replacement: "-",
-      remove: /[*+~.·,()'"`´%!?¿:@]/g
+      remove: /[*+~.·,()'"`´%!?¿:@]/g,
     });
   });
 
@@ -79,14 +88,15 @@ module.exports = function(eleventyConfig) {
   let options = {
     html: true,
     breaks: true,
-    linkify: true
+    linkify: true,
   };
   let opts = {
-    permalink: false
+    permalink: false,
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts)
   );
 
   return {
@@ -105,7 +115,7 @@ module.exports = function(eleventyConfig) {
       input: ".",
       includes: "_includes",
       data: "_data",
-      output: "_site"
-    }
+      output: "_site",
+    },
   };
 };
