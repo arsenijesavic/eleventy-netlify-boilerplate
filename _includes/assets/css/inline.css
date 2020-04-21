@@ -1,7 +1,6 @@
 :root {
   --primary: blue;
   --secondary: white;
-  /* --background: #fff0eb; */
   --background: #f7efe7;
 }
 
@@ -10,6 +9,7 @@
 *:after {
   box-sizing: border-box;
 }
+
 html {
   font-size: 100%;
   font-size: 18px;
@@ -20,8 +20,6 @@ body {
   font-weight: 400;
   line-height: 1.65;
   display: grid;
-  /* max-width: 37.5em; */
-  /* margin: 0 auto; */
   height: 100vh;
   grid-template-rows: auto 1fr auto;
   background-color: var(--background);
@@ -51,18 +49,25 @@ body {
 }
 
 header {
-  font-size: 2.25rem;
-  text-align: center;
+  /* font-size: 2.25rem; */
+  /* text-align: center; */
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: var(--primary);
+  background-color: #808080;
+}
+
+header img {
+  width: 100%;
+  /* height: 100vh; */
+  object-fit: cover;
 }
 
 header h1 {
   font-size: 6rem;
   margin: 0;
+  border: none;
 }
 
 aside {
@@ -71,7 +76,7 @@ aside {
   /* align-items: center; */
   /* min-height: 100vh; */
   font-size: 1rem;
-  margin-bottom: 4em;
+  margin: 4em 0;
 }
 
 h1,
@@ -80,7 +85,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin-top: 8rem;
+  margin-top: 4rem;
   font-family: "IBM Plex Sans", sans-serif;
   font-weight: 900;
   line-height: 1.15;
@@ -88,37 +93,74 @@ h6 {
 }
 
 h1 {
-  font-size: 4rem;
-}
-
-h2 {
-  font-size: 3rem;
-}
-
-h3 {
-  font-size: 2.25rem;
-}
-
-h4 {
+  border-top: 2px solid #808080;
+  padding-top: 4rem;
   font-size: 1.875rem;
 }
 
-h5 {
+h2 {
   font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1rem;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: 1rem;
 }
 
 h6 {
   margin: 1rem 0;
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 small {
   font-size: 0.75em;
 }
 
-main {
+section {
+  display: flex;
+  /* margin: 0 auto; */
+}
+
+section aside {
+  position: sticky;
+  /* top: 32px; */
+  padding: 8px;
+  top: 0;
+  /* flex: 1; */
+  margin-top: 4rem;
+  background-color: white;
+  box-shadow: 0 0.25em 0.375em rgba(50, 50, 93, 0.09),
+    0 0.063em 0.188em rgba(0, 0, 0, 0.08);
+  font-size: 0.75rem;
+  height: 100vh;
+}
+
+section aside ol {
+  padding-inline-start: 0px;
+}
+
+.hidden {
+  display: none;
+}
+
+section main {
   max-width: 960px;
   margin: 0 auto;
+  flex: 3;
+  padding: 2rem;
+}
+
+section main img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 p,
@@ -144,6 +186,19 @@ footer {
 
 main {
   padding-bottom: 2em;
+}
+
+main ul {
+  position: relative;
+  list-style: none;
+  margin-left: 2rem;
+  padding-left: 1rem;
+}
+
+main ul li:before {
+  content: "-";
+  position: absolute;
+  left: 0;
 }
 
 main :first-child,
@@ -247,64 +302,29 @@ a[rel="tag"]:last-child {
   margin-right: 0;
 }
 
-/* Contact Form */
-form {
-  display: grid;
-  padding: 2em 0;
-}
-
-form label {
-  display: none;
-}
-
-input,
-textarea,
-button {
-  width: 100%;
-  padding: 1em;
-  margin-bottom: 1em;
-  font-size: 1rem;
-  font-family: "Avenir", "Avenir Next", sans-serif;
-}
-
-input,
-textarea {
-  border: 1px solid black;
-}
-
-button {
-  border: 1px solid var(--primary);
-  background-color: var(--primary);
-  color: var(--secondary);
-  cursor: pointer;
-}
-
-@media screen and (min-width: 768px) {
+/* @media screen and (min-width: 768px) {
   :root {
     font-size: 1.1rem;
   }
-}
+} */
 
 aside ol {
   counter-reset: item;
 }
+
 aside li {
   display: block;
 }
+
 aside li:before {
-  content: counters(item, ".") " ";
+  content: counters(item, ".") ". ";
   counter-increment: item;
 }
 
 blockquote {
   width: 100%;
   display: block;
-  background-color: var(--primary);
-  color: var(--background);
+  border: 4px solid var(--primary);
   margin: 0;
-  padding: 1em 2em;
-}
-
-blockquote > h4 {
-  color: var(--background);
+  padding: 1rem 1rem 0;
 }

@@ -1,6 +1,7 @@
 ---
 layout: layouts/home.njk
 title: Home
+image: /static/img/hero.png
 permalink: /
 ---
 
@@ -19,6 +20,8 @@ Treba imati u vidu da je Savet Evrope svojim članicama dao preporuke za suočav
 Što se masovne i automatizovane obrade ličnih podataka tiče, ona bi trebalo bi da se vrši samo kada naučni dokazi uverljivo pokažu da potencijalne dobrobiti za javno zdravlje nadmašuju koristi alternativnih, manje invazivnih rešenja.
 Naš Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti (Poverenik) na svom sajtu objavio je niz preporuka, saopštenja i apela u pogledu zaštite podataka o ličnosti građana.
 
+![alt text](static/img/viz1.png "Logo Title Text 1")
+
 ## Osnovna pravila i načela zaštite podataka o ličnosti
 
 ZZPL koji je usaglašen sa pravilima GDPR-a i standardima Konvencije 108+, sadrži dovoljno opšta pravila koja mogu da se adekvatno primene i pod postojećim izuzetnim okolnostima. Takođe, postoje posebna pravila iz ZZPL-a koja se bave pitanjima zaštite života i javnog zdravlja, kao i obradom zdravstvenih podataka koji se smatraju posebno osetljivom vrstom podataka o ličnosti.
@@ -26,6 +29,8 @@ ZZPL koji je usaglašen sa pravilima GDPR-a i standardima Konvencije 108+, sadr�
 Načela koja su sadržana u članu 5 ZZPL-a ostaju relevantna i za obrade koji se vrše u kontekstu suzbijanja korona virusa, i podrazumevaju sledeće:
 
 Značaj poštovanja svih pravila koja su sadržana u načelima istakao je i Poverenik u svom Saopštenju povodom obrade podataka o ličnosti za vreme vanrednog stanja, u kome je istakao da su rukovaoci i obrađivači i u novonastalim okolnostima dužni da vode računa o tome da za svaku obradu podataka o ličnosti mora postojati odgovarajući pravni osnov i svrha, da se mogu obrađivati samo podaci koji su primereni, bitni i ograničeni na ono što je neophodno za postizanje svrhe obrade, da lica čiji se podaci obrađuju moraju biti upoznata sa obradom, kao i da se moraju preduzimati adekvatne mere zaštite od neovlašćene i nezakonite obrade i primenjivati druga načela obrade utvrđena članom 5 ZZPL-a.
+
+![alt text](static/img/viz2.png "Logo Title Text 1")
 
 ## Zdravstveni podaci kao posebna vrsta podataka o ličnosti
 
@@ -42,11 +47,11 @@ Ako smatraju da su njihovi podaci o ličnosti obrađivani suprotno ZZPL-u, građ
 
 # Obrada podataka o obolelim, testiranim i rizičnim licima
 
-- Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.
-- Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.
-- Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.
-- Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.
-- Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.
+> - Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.
+> - Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.
+> - Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.
+> - Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.
+> - Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.
 
 ## Zaštita podataka o ličnosti u zdravstvenom sistemu
 
@@ -113,11 +118,11 @@ Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani i
 
 # Obrada podataka u radnom okruženju
 
-- Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.
-- Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.
-- Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.
-- Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.
-- Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.
+> - Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.
+> - Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.
+> - Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.
+> - Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.
+> - Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.
 
 ## Zdravstveni podaci u radnom okruženju
 
@@ -173,15 +178,11 @@ Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom
 
 # Masovna obrada podataka
 
-- Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.
-
-- Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.
-
-- Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.
-
-- Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.
-
-- Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.
+> - Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.
+> - Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.
+> - Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.
+> - Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.
+> - Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.
 
 ## Mehanizmi za masovnu obradu podataka
 

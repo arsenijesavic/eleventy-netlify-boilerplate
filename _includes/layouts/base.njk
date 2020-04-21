@@ -5,9 +5,9 @@
 
 	<body>
 		<div id="_progress"></div>
-
 		<header>
-			<h1>{{ metadata.title }}</h1>
+			<img src="/static/img/hero.png" alt="">
+			{# <h1>{{ metadata.title }}</h1> #}
 			{# <em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
 			</em> #}
@@ -19,12 +19,21 @@
   		{{ content | toc | safe }}
 		</aside>
 
-		<main>
-			{{ content | safe }}
-		</main>
+		<section>
+			{# <aside>
+				{{ content | toc | safe }}
+			</aside> #}
+			<main>
+				{{ content | safe }}
+			</main>
+		</section>
 
 		{# {% include "components/footer.njk" %} #}
 
+  {% set js %}
+    {% include "assets/js/inline.js" %}
+  {% endset %}
+	<script>{{ js | jsmin | safe }}</script>
 	</body>
 
 </html>
