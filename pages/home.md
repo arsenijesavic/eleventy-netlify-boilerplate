@@ -28,6 +28,8 @@ ZZPL koji je usaglašen sa pravilima GDPR-a i standardima Konvencije 108+, sadr�
 
 Načela koja su sadržana u članu 5 ZZPL-a ostaju relevantna i za obrade koji se vrše u kontekstu suzbijanja korona virusa, i podrazumevaju sledeće:
 
+![alt text](static/img/viz2.png "Logo Title Text 1")
+
 Značaj poštovanja svih pravila koja su sadržana u načelima istakao je i Poverenik u svom Saopštenju povodom obrade podataka o ličnosti za vreme vanrednog stanja, u kome je istakao da su rukovaoci i obrađivači i u novonastalim okolnostima dužni da vode računa o tome da za svaku obradu podataka o ličnosti mora postojati odgovarajući pravni osnov i svrha, da se mogu obrađivati samo podaci koji su primereni, bitni i ograničeni na ono što je neophodno za postizanje svrhe obrade, da lica čiji se podaci obrađuju moraju biti upoznata sa obradom, kao i da se moraju preduzimati adekvatne mere zaštite od neovlašćene i nezakonite obrade i primenjivati druga načela obrade utvrđena članom 5 ZZPL-a.
 
 ![alt text](static/img/viz2.png "Logo Title Text 1")
@@ -36,12 +38,16 @@ Značaj poštovanja svih pravila koja su sadržana u načelima istakao je i Pove
 
 Za obradu posebnih vrsta podataka, kao što su podaci o zdravlju nekog lica, važe sva pravila koja su opisana u zakonskim načelima. Međutim, to nije dovoljno. Pored neophodnog postojanja jednog od šest pravnih osnova koji dozvoljava obradu, za sve rukovaoce koji obrađuju takve podatke dodatno je relevantan član 17 ZZPL-a. Ovaj član reguliše u kojih deset situacija je dozvoljeno da se obrađuju podaci o ličnosti koji se smatraju posebnim. Tek ukoliko su ispunjeni dodatni uslovi iz neke od tih deset situacija, mogu se prikupljati i dalje obrađivati podaci kao što su: telesna temperatura, istorija bolesti, krvna grupa, genetski i biometrijski podaci i sl.
 
+![alt text](static/img/viz3.png "Logo Title Text 1")
+
 Poverenik je ukazao da, sa stanovišta primene ZZPL-a, „nema smetnji za obradu podataka o zdravstvenom stanju lica kada je ona zasnovana na važećim propisima, uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i uz poštovanje svih načela obrade iz člana 5 ZZPL-a”.
 Prema stavu Poverenika, „obrada podataka o licima inficiranim i obolelim od COVID-a 19 u svrhe naučnog istraživanja, nije u suprotnosti sa ZZPL-om, s tim što ulogu rukovaoca može imati samo organizacija koja je, u skladu sa zakonom, registrovana za obavljanje naučnoistraživačke delatnosti i koja je odgovorna za postupanje u skladu sa ZZPL-om”.
 
 ## Prava građana u vezi sa zaštitom podataka o ličnosti
 
 Fizička lica čiji se podaci obrađuju i u uslovima vanrednog stanja mogu ostvarivati sva prava u vezi sa obradom njihovih podataka koja su im garantovana članovima 26 do 38 ZZPL-a, što je stav i Poverenika. Jasno je, međutim, da se aktivnosti rukovalaca trenutno ostvaruju u izmenjenom režimu. Stoga rukovaoci objektivno neće biti u mogućnosti da po svakom zahtevu postupe u roku od 30 dana od dana prijema zahteva, što je njihova redovna obaveza prema članu 21, stav 3 ZZPL. Poverenik nije ovlašćen da izmeni propisani rok zbog izuzetnih okolnosti, ali je direktno ukazao na Zakonom predviđenu mogućnost produženja roka za postupanje rukovalaca za još 60 dana (ako je to neophodno, uzimajući u obzir složenost i broj zahteva), koja je takođe sadržana u navedenom članu ZZPL-a. To znači da se rukovalac ne može osloboditi obaveze postupanja po zahtevu lica za ostavarivanje bilo kog prava i dužan je da to učini čim se steknu uslovi.
+
+![alt text](static/img/viz4.png "Logo Title Text 1")
 
 Ako smatraju da su njihovi podaci o ličnosti obrađivani suprotno ZZPL-u, građani imaju na raspolaganju dva procesna puta: (i) pravo na pritužbu Povereniku, kao i pravo da protiv odluke Poverenika po pritužbi pokrenu upravni spor (ii) mogućnost pokretanja sudskog spora zbog povrede prava, pri čemu u sudskom postupku lice može zahtevati određeno činjenje ili naknadu materijalne i/ili nematerijalne štete u skladu sa pravilima Zakona o obligacionim odnosima.
 
@@ -71,7 +77,11 @@ Međutim, kada sam zakon ne definiše svrhu obrade podataka, onda svaki organ il
 
 ## Mapiranje tokova podataka
 
-Postupanje i obaveze zdravstvenih ustanova, državnih organa i kriznog štaba
+Sledeći infografik predstavlja okvirni prikaz puta podataka o ličnosti građana koji u nekom od svojstava (npr. testirani, oboleli, izlečeni) mogu učestvuju u epidemiološkim, zdravstvenim i drugim procedurama tokom sprečavanja i/ili lečenja od bolesti Covid-19. Infografik je izrađen na raspoloživih informacija koje se nalaze u mnogobrojnim aktima koji regulišu neku od ovih procedura, uključujući zakonski okvir za epidemiološka ispitivanja, posebne propise o postupanju nadležnih organa za vreme vanrednog stanja, algoritme, interne procedure, uputstva i pravila po kojima su ti organi dužni da postupaju, a koji se s vremena na vreme ažuriraju.
+
+Zbog toga što su predmetne procedure detaljne, podrazumevaju veliki broj učesnika i aktera sa različitim zadacima, a pri tom se menjaju s vremena na vreme u skladu sa razvojem situacije - informacije i put podataka predstavljene u infografiku treba razumeti kao uopštenu vizualizaciju za informacione svrhe, pri čemu put podataka u praksi može izgledati drugačije.
+
+![alt text](static/img/viz5.png "Logo Title Text 1")
 
 ## Informacioni sistem Covid-19
 
@@ -82,6 +92,8 @@ Posebno je pitanje da li Vlada ima ovlašćenje da o obradi podataka o ličnosti
 Iako detaljno reguliše kategorije lica čiji se podaci moraju naći u ovom sistemu, Zaključak ipak ne reguliše koje tačno podatke sistem sadrži. U tom smislu, od izuzetnog značaja je postupanje u skladu sa načelom minimizacije.
 
 Institut za javno zdravlje „Dr Milan Jovanović Batut” (Institut Batut) ima obavezu da podatke iz Informacionog sistema Covid-19 dostavlja Ministarstvu zdravlja na dnevnom nivou, u cilju pripreme izveštaja i objavljivanja pseudonimizovanih podataka za javnost. Iako se ovde koristi izraz "pseudonimizovani podaci" objavljeni podaci bi svakako morali biti anonimizovani kako na osnovu njih ne bi mogla da se izvrši identifikacija lica na koje se odnose.
+
+![alt text](static/img/viz-large.png "Logo Title Text 1")
 
 > #### Pravna nesigurnost
 >
@@ -107,6 +119,8 @@ U drugom slučaju, Poverenik je reagovao i pokrenuo meru nadzora kada je Štab z
 Takođe, Poverenik je apelovao na rukovaoce podacima da „vode računa da se obrada podataka o ličnosti, kako obolelih tako i potencijalno zaraženih lica, vrši samo u okviru minimuma onih podataka koji su neohodni za ostvarenje svrhe zaštite javnog zdravlja i smanjenja broja obolelih, u skladu sa ZZPL-om”. Tako je na početku pandemije Ministarstvo zdravlja objavljivalo informacije o inicijalima, godini rođenja, bolnici u kojoj su pacijenti boravili i o drugim bolestima od kojih su bolovali pre nego što su u bolnici preminuli od posledica korona virusa što je nije u skladu sa načelom minimizacije.
 
 Mnoge javne ličnosti u svetu i kod nas objavljivale su, najčešće na svojim nalozima na društvenim mrežama, zdravstvene informacije o sebi ili članovima svoje porodice. U “Smernicama za primenu Kodeksa novinara Srbije u onlajn okruženju” navodi se da i ove informacije novinari treba da obrade sa dužnom novinarskom pažnjom. Takođe, ako se koriste informacije koje je objavio pojedinac koji nije javna ličnost, novinar je u obavezi da za to pribavi prethodnu saglasnost, dok za javne ličnosti, posebno za javne funkcionere, saglasnost nije obavezna. Novinari bi trebalo da imaju u vidu da su zdravstveni podaci posebno osetljivi, te da sa mnogo opreza tretiraju status “javne ličnosti” i procene meru u kojoj je neka osoba namerno stupila u javni prostor. U dosadašnjoj praksi, usled povećanog interesovanja javnosti za stanje u zdravstvenim ustanovama, pojedini mediji su, čini se, počeli pogrešno da tretiraju zdravstvene radnike kao javne ličnosti.
+
+![alt text](static/img/viz6.png "Logo Title Text 1")
 
 ## Prava pacijenata
 
@@ -233,6 +247,8 @@ Ako bi policija nastavila sa praćenjem geolokacija mobilnih telefona koji pripa
 Mobilne aplikacije zasnovane na “bluethooth” tehnologiji registruju kontakt između uređaja, na osnovu čega se utvrđuju kontakti sa zaraženom osobom. Ovakve aplikacije mogu imati i druge funkcije, poput distribucije obaveštenja o COVID-u 19, upitnika za samoprocenu građana na simptome bolesti, komunikacije doktora i pacijenta u samoizolaciji i slično.
 
 Evropska komisija (EK) je 16. aprila izradila Smernice o aplikacijama koje podržavaju borbu protiv pandemije COVID-a 19 u vezi sa zaštitom podataka o ličnosti, u kojima je naglašena važnost upotrebe aplikacija za praćenje kontakata u suzbijanju pandemije, ali i da takva upotreba mora biti u skladu sa GDPR-om i EU zakonodavstvom koje reguliše zaštitu podataka o ličnosti. Drugim rečima, građanima se mora obezbediti poverenje da aplikacije neće biti korišćene za masovni nadzor, dok je nužno i da građani zadrže kontrolu nad svojim podacima. Pre izrade Smernica, EK se konsultovala sa EDBP-om koji između ostalog naglašava da bi instaliranje i korišćenje ovih aplikacija trebalo da bude dobrovoljno, odnosno ne bi smelo da se desi da vlada konkretne države nameće stanovništvu obavezno instaliranje takve aplikacije.
+
+![alt text](static/img/viz7.png "Logo Title Text 1")
 
 Smernice EK preporučuju sledeće:
 
