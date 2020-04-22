@@ -266,7 +266,7 @@ Za određene vrste masovnog nadzora posebno važna mogu biti i prava građana ko
 
 Takva praksa je izuzetno dozvoljena ako je lice na to pristalo, ili je obrada neophodna radi zaključenja i izvršenja ugovora gde je to lice ugovorna strana, ili kada ovakvu obradu eksplicitno reguliše neki zakon. Kada se obrada vrši prema prva dva izuzetka, građanin u svakom slučaju ima pravo da se obezbedi učešće fizičkog lica u donošenju odluke, pravo da izrazi svoj stav u vezi sa odlukom, kao i pravo da ospori odluku pred ovlašćenim licem rukovaoca.
 
-# Zaključak
+# ZAKLJUČAK
 
 Pravila i principi evropskog režima zaštite podataka o ličnosti, kojem je prilagođena i regulativa u Srbiji, dovoljno su opšti da se u potpunosti mogu primenjivati i u vanrednim okolnostima borbe protiv pandemije. Garancije koje pruža Ustav Srbije i niz međunarodnih ugovora, na snazi su i dalje.
 
