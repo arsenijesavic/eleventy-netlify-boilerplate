@@ -288,7 +288,8 @@ S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophod
 
 ###### [Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
 
-*Impresum* 
+
+# Impresum
 
 Urednici: **Danilo Krivokapić i Đorđe Krivokapić** 
 
