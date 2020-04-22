@@ -4,8 +4,7 @@ title: Home
 image: /static/img/hero.png
 permalink: /
 ---
-
-# Uvod
+# UVOD
 
 Globalna kriza javnog zdravlja u značajnoj meri izmešta fokus odluka sa prava pojedinaca na interes zajednice. Čini se da je zaštita podataka o ličnosti izložena naročito teškom testu, s obzirom na tehničke mogućnosti masovnog prikupljanja i obrade u okolnostima kada je suzbijanje pandemije primarni cilj celokupne javnosti. Po prvi put od donošenja Opšte uredbe o zaštiti podataka (eng. General Data Protection Regulation, GDPR), odnosno našeg Zakona o zaštiti podataka o ličnosti (Zakon ili ZZPL), potrebna je učestalija primena odredbi ovih propisa, dok su se istovremeno njihova načela našla na ozbiljnom ispitu. U kojoj su meri ustanovljeni standardi primenjivi na situaciju u kojoj se nalazimo? Gde ih eventualno treba pooštriti, gde možda sniziti, a u kojim situacijama bi trebalo da ostanu isti?
 
@@ -17,8 +16,7 @@ Pravnu sitaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je
 
 Treba imati u vidu da je Savet Evrope svojim članicama dao preporuke za suočavanje sa situacijom koja je nazvana nezapamćenom i masovnom sanitarnom krizom, sa ciljem da obezbedi poštovanje osnovnih vrednosti demokratije, vladavine prava i ljudskih prava. Što se zaštite podataka o ličnosti i privatnosti građana tiče, iako je priznat značaj koji digitalne tehnologije mogu da imaju na suzbijanje pandemije, istaknuta je i važnost poštovanja pravila koja su sadržana u Konvenciji 108+. Konvencija dozvoljava izuzeća od redovnih pravila o zaštiti podataka, ali u ograničenom vremenskom periodu, uz odgovarajuće mere zaštite (npr. anonimizacija) i efikasan nadzor, kako bi se osiguralo da se podaci o ličnosti prikupljaju, analiziraju, čuvaju i dele na zakonite i odgovorne načine.
 
-Što se masovne i automatizovane obrade ličnih podataka tiče, ona bi trebalo bi da se vrši samo kada naučni dokazi uverljivo pokažu da potencijalne dobrobiti za javno zdravlje nadmašuju koristi alternativnih, manje invazivnih rešenja.
-Naš Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti (Poverenik) na svom sajtu objavio je niz preporuka, saopštenja i apela u pogledu zaštite podataka o ličnosti građana.
+Što se masovne i automatizovane obrade ličnih podataka tiče, ona bi trebalo bi da se vrši samo kada naučni dokazi uverljivo pokažu da potencijalne dobrobiti za javno zdravlje nadmašuju koristi alternativnih, manje invazivnih rešenja. Naš Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti (Poverenik) na svom sajtu objavio je niz preporuka, saopštenja i apela u pogledu zaštite podataka o ličnosti građana.
 
 ![alt text](static/img/viz1.png "Logo Title Text 1")
 
@@ -32,16 +30,13 @@ Načela koja su sadržana u članu 5 ZZPL-a ostaju relevantna i za obrade koji s
 
 Značaj poštovanja svih pravila koja su sadržana u načelima istakao je i Poverenik u svom Saopštenju povodom obrade podataka o ličnosti za vreme vanrednog stanja, u kome je istakao da su rukovaoci i obrađivači i u novonastalim okolnostima dužni da vode računa o tome da za svaku obradu podataka o ličnosti mora postojati odgovarajući pravni osnov i svrha, da se mogu obrađivati samo podaci koji su primereni, bitni i ograničeni na ono što je neophodno za postizanje svrhe obrade, da lica čiji se podaci obrađuju moraju biti upoznata sa obradom, kao i da se moraju preduzimati adekvatne mere zaštite od neovlašćene i nezakonite obrade i primenjivati druga načela obrade utvrđena članom 5 ZZPL-a.
 
-![alt text](static/img/viz2.png "Logo Title Text 1")
-
 ## Zdravstveni podaci kao posebna vrsta podataka o ličnosti
 
 Za obradu posebnih vrsta podataka, kao što su podaci o zdravlju nekog lica, važe sva pravila koja su opisana u zakonskim načelima. Međutim, to nije dovoljno. Pored neophodnog postojanja jednog od šest pravnih osnova koji dozvoljava obradu, za sve rukovaoce koji obrađuju takve podatke dodatno je relevantan član 17 ZZPL-a. Ovaj član reguliše u kojih deset situacija je dozvoljeno da se obrađuju podaci o ličnosti koji se smatraju posebnim. Tek ukoliko su ispunjeni dodatni uslovi iz neke od tih deset situacija, mogu se prikupljati i dalje obrađivati podaci kao što su: telesna temperatura, istorija bolesti, krvna grupa, genetski i biometrijski podaci i sl.
 
 ![alt text](static/img/viz3.png "Logo Title Text 1")
 
-Poverenik je ukazao da, sa stanovišta primene ZZPL-a, „nema smetnji za obradu podataka o zdravstvenom stanju lica kada je ona zasnovana na važećim propisima, uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i uz poštovanje svih načela obrade iz člana 5 ZZPL-a”.
-Prema stavu Poverenika, „obrada podataka o licima inficiranim i obolelim od COVID-a 19 u svrhe naučnog istraživanja, nije u suprotnosti sa ZZPL-om, s tim što ulogu rukovaoca može imati samo organizacija koja je, u skladu sa zakonom, registrovana za obavljanje naučnoistraživačke delatnosti i koja je odgovorna za postupanje u skladu sa ZZPL-om”.
+Poverenik je ukazao da, sa stanovišta primene ZZPL-a, „nema smetnji za obradu podataka o zdravstvenom stanju lica kada je ona zasnovana na važećim propisima, uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i uz poštovanje svih načela obrade iz člana 5 ZZPL-a”. Prema stavu Poverenika, „obrada podataka o licima inficiranim i obolelim od COVID-a 19 u svrhe naučnog istraživanja, nije u suprotnosti sa ZZPL-om, s tim što ulogu rukovaoca može imati samo organizacija koja je, u skladu sa zakonom, registrovana za obavljanje naučnoistraživačke delatnosti i koja je odgovorna za postupanje u skladu sa ZZPL-om”.
 
 ## Prava građana u vezi sa zaštitom podataka o ličnosti
 
@@ -51,13 +46,13 @@ Fizička lica čiji se podaci obrađuju i u uslovima vanrednog stanja mogu ostva
 
 Ako smatraju da su njihovi podaci o ličnosti obrađivani suprotno ZZPL-u, građani imaju na raspolaganju dva procesna puta: (i) pravo na pritužbu Povereniku, kao i pravo da protiv odluke Poverenika po pritužbi pokrenu upravni spor (ii) mogućnost pokretanja sudskog spora zbog povrede prava, pri čemu u sudskom postupku lice može zahtevati određeno činjenje ili naknadu materijalne i/ili nematerijalne štete u skladu sa pravilima Zakona o obligacionim odnosima.
 
-# Obrada podataka o obolelim, testiranim i rizičnim licima
+# OBRADA PODATAKA O OBOLELIM, TESTIRANIM I RIZIČNIM LICIMA
 
-> - Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.
-> - Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.
-> - Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.
-> - Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.
-> - Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.
+> * **Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.**
+> * **Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.**
+> * **Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.**
+> * **Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.**
+> * **Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.**
 
 ## Zaštita podataka o ličnosti u zdravstvenom sistemu
 
@@ -93,12 +88,11 @@ Iako detaljno reguliše kategorije lica čiji se podaci moraju naći u ovom sist
 
 Institut za javno zdravlje „Dr Milan Jovanović Batut” (Institut Batut) ima obavezu da podatke iz Informacionog sistema Covid-19 dostavlja Ministarstvu zdravlja na dnevnom nivou, u cilju pripreme izveštaja i objavljivanja pseudonimizovanih podataka za javnost. Iako se ovde koristi izraz "pseudonimizovani podaci" objavljeni podaci bi svakako morali biti anonimizovani kako na osnovu njih ne bi mogla da se izvrši identifikacija lica na koje se odnose.
 
-![alt text](static/img/viz-large.png "Logo Title Text 1")
+![alt text](/static/img/share-vodic-tabele-02.png "Logo Title Text 1")
 
 > #### Pravna nesigurnost
 >
-> Prema Zaključku, u cilju nadzora nad sprovođenjem mere samoizolacije, kao i radi sprovođenja pojačanog zdravstvenog nadzora, Institut Batut podatke iz IS Covid-19 sistema dostavlja Ministarstvu unutrašnjih poslova, Vojsci Srbije i drugim nadležnim organima radi postupanja u skladu sa njihovim nadležnostima. Ova uopštena odredba izaziva zabrinutost, jer je ovde navedena svrha za dalje korišćenje podataka preširoka, nije jasno šta je "pojačani zdravstveni nadzor". Takođe nije jasno koji su to drugi nadležni organi koji po osnovu ovog Zaključka Vlade mogu da dobiju podatke iz IS COVID-19. Zbog toga je posebno važno da svi organi koji dolaze u kontakt sa ovim podacima u svakom trenutku imaju u vidu obavezu da poštuju načelo minimizacije, da upotrebljavaju anonimizaciju gde god je moguće i da preduzmu mere kako bi podaci bili zaštićeni tako da im ne pristupaju lica koja nisu za to ovlašćena - kako u okviru samih organa koji raspolažu podacima, tako i prilikom međusobne razmene podataka.
-> Slične preporuke važe i za završnu odrebu Zaključka prema kojoj su svi organi državne uprave obavezni da prilikom objavljivanja podataka u vezi sa epidemijom javnosti saopštavaju podatke preuzete iz IS Covid-19. S obzirom na to da Zaključak ne reguliše na koji način “svi organi državne uprave” mogu da pristupe ovom sistemu i preuzmu podatke u cilju njihovog objavljivanja, jasno je da svaki od tih organa ima teret da sam postupi u skladu sa obavezama koje ima prema ZZPL i drugim zakonima koji regulišu njegov rad.
+> Prema Zaključku, u cilju nadzora nad sprovođenjem mere samoizolacije, kao i radi sprovođenja pojačanog zdravstvenog nadzora, Institut Batut podatke iz IS Covid-19 sistema dostavlja Ministarstvu unutrašnjih poslova, Vojsci Srbije i drugim nadležnim organima radi postupanja u skladu sa njihovim nadležnostima. Ova uopštena odredba izaziva zabrinutost, jer je ovde navedena svrha za dalje korišćenje podataka preširoka, nije jasno šta je "pojačani zdravstveni nadzor". Takođe nije jasno koji su to drugi nadležni organi koji po osnovu ovog Zaključka Vlade mogu da dobiju podatke iz IS COVID-19. Zbog toga je posebno važno da svi organi koji dolaze u kontakt sa ovim podacima u svakom trenutku imaju u vidu obavezu da poštuju načelo minimizacije, da upotrebljavaju anonimizaciju gde god je moguće i da preduzmu mere kako bi podaci bili zaštićeni tako da im ne pristupaju lica koja nisu za to ovlašćena - kako u okviru samih organa koji raspolažu podacima, tako i prilikom međusobne razmene podataka. Slične preporuke važe i za završnu odrebu Zaključka prema kojoj su svi organi državne uprave obavezni da prilikom objavljivanja podataka u vezi sa epidemijom javnosti saopštavaju podatke preuzete iz IS Covid-19. S obzirom na to da Zaključak ne reguliše na koji način “svi organi državne uprave” mogu da pristupe ovom sistemu i preuzmu podatke u cilju njihovog objavljivanja, jasno je da svaki od tih organa ima teret da sam postupi u skladu sa obavezama koje ima prema ZZPL i drugim zakonima koji regulišu njegov rad.
 
 ## Objavljivanje podataka, postupanje i obaveze medija
 
@@ -130,13 +124,13 @@ Nakon pandemije, kao posebno važno se otvara pitanje brisanja podataka koji su 
 
 Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani imaju i određene obaveze, koje su usmerene na to da se pandemija suzbije što efikasnije. Tako Zakon o zaštiti stanovništa od zaraznih bolesti propisuje da je lice koje daje podatke u postupku epidemiološkog ispitivanja dužno da govori istinu i da daje tačne i potpune podatke od značaja za otkrivanje rezervoara, izvora i načina prenošenja zarazne bolesti, kao i da se, po potrebi, podvrgne određenim medicinskim ispitivanjima. Lica koja ne poštuju ovu i niz drugih obaveza, mogu prekršajno odgovarati.
 
-# Obrada podataka u radnom okruženju
+# OBRADA PODATAKA U RADNOM OKRUŽENJU
 
-> - Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.
-> - Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.
-> - Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.
-> - Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.
-> - Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.
+> * **Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.**
+> * **Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.**
+> * **Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.**
+> * **Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.**
+> * **Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.**
 
 ## Zdravstveni podaci u radnom okruženju
 
@@ -144,7 +138,7 @@ U redovnim okolnostima, poslodavci obrađuju određene podatke o zdravlju zaposl
 
 Od svih situacija iz ZZPL-a koje omogućavaju takvu izuzetnu obradu, za poslodavce se posebno relevantnim čine odredbe prema kojima je obrada dozvoljena ako je neophodna u cilju: 1) zaštite životno važnih interesa nekog fizičkog lica, ili 2) ostvarivanja javnog interesa u oblasti javnog zdravlja, kao što je zaštita od ozbiljnih prekograničnih pretnji zdravlju stanovništva (član 17, stav 1, tačke 3 i 9 ZZPL).
 
-INFOGRAFIK
+![](/static/img/share-vodic-tabele-12.png)
 
 ## Postupanje i obaveze poslodavca u prevenciji zaraze
 
@@ -190,13 +184,13 @@ Ukoliko zaposleni smatra da nove prakse poslodavca nisu u skladu sa ZZPL, najpre
 
 Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom slučaju mogu obratiti Povereniku koji u postupku nadzora može utvrditi da li je nova vrsta obrade zakonita tj. neophodna u konkretnim okolnostima.
 
-# Masovna obrada podataka
+# MASOVNA OBRADA PODATAKA
 
-> - Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.
-> - Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.
-> - Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.
-> - Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.
-> - Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.
+> * **Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.**
+> * **Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.**
+> * **Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.**
+> * **Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.**
+> * **Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.**
 
 ## Mehanizmi za masovnu obradu podataka
 
@@ -204,7 +198,7 @@ Tokom pandemije COVID-a 19 različiti tehnološki alati koji podrazumevaju masov
 
 Nadzor može biti vršen praćenjem geolokacije, video nadzorom, korišćenjem mobilnih aplikacija i slično, a često i kombinacijom ovih metoda. Mada se neka od rešenja mogu pokazati korisnim, raste zabrinutost da bi se nakon završetka pandemije prikupljeni podaci mogli zloupotrebiti, kao i da bi se društva mogla navići na pojačani nadzor i intruzivne mere, i prihvatiti ih kao novi standard života.
 
-INFOGRAFIK(ILUSTRACIJA)
+![](/static/img/share-vodic-tabele-13.png)
 
 Primera radi, kineska vlada zahteva od građana da na svoje mobilne telefone instaliraju softver koji će svakoj osobi dodeliti kod u crvenoj, žutoj ili zelenoj boji, u zavisnosti od nivoa rizika od zaraze, i time odrediti ko će morati da ide u karantin, a ko ne. U regionu je puno pažnje izazvala aplikacija koja, u zavisnosti od lokacije korisnika, prikazuje najbliže adrese i imena građana Crne Gore kojima su izdata rešenja o obaveznoj samoizolaciji, a čiji se lični podaci objavljuju na internet stranici Vlade Crne Gore.
 
@@ -250,22 +244,6 @@ Evropska komisija (EK) je 16. aprila izradila Smernice o aplikacijama koje podr�
 
 ![alt text](static/img/viz7.png "Logo Title Text 1")
 
-Smernice EK preporučuju sledeće:
-
-- potrebno je da aplikacije budu dizajnirane na takav način da nacionalna tela koja se bave zdravstvenom zaštitom budu rukovaoci podacima o ličnosti koji, između ostalog, imaju obavezu da korisnike obaveste o svim okolnostima vezanim za obradu njihovih podataka o ličnosti (pravo na informisanost) i da im omoguće korišćenje prava na pristup, ispravku i brisanje;
-
-- potrebno je da instaliranje aplikacije bude dobrovoljno i da nema nikakvih posledica za one koji odaberu da ih ne koriste; u slučaju da aplikacija ima više različitih funkcionalnosti, potrebno je omogućiti korisniku da koristi samo one funkcionalnosti koje poželi;
-
-- ako se za prikupljanje podataka o prostornoj udaljenosti građana koristi “bluetooth” tehnologija, takvi podaci bi trebalo da se skladište na mobilnom tefonu korisnika, dakle, decentralizovano, a ne u jednoj centralnoj bazi. Ukoliko je potrebno takve podatke deliti sa organima koji se bave zdravstvenom zaštitom, oni bi trebalo da se dele tek nakon što je potvrđeno da je konkretna osoba zaražena i ukoliko ta osoba odluči da podeli podatke;
-
-- aplikacije bi trebalo da budu deaktivirane čim se proglasi da je pandemija pod kontrolom, nezavisno od odluke korisnika da je deinstalira;
-
-- potrebno je primeniti načelo minimizacije, u zavisnosti od funkcionalnosti aplikacije. Ukoliko aplikacija prati kontakte građana, trebalo bi da se oslanja na “bluetooth” tehnologiju, a ne geolokaciju, jer cilj ne sme biti praćenje lica, već utvrđivanje kontakta sa osobom pozitivnom na virus. Potrebno je takođe i štititi anonimnost zaražene osobe, odnosno identitet te osobe ne bi trebalo da se obelodanjuje drugim licima koja su sa njom bili u kontaktu. Dovoljno je samo da ta lica budu obaveštena da je bilo kontakta;
-
-- potrebno je koristiti najsavremenije tehnološke mere u cilju zaštite integriteta podataka i obezbeđivanja najšire moguće anonimnosti korisnika - enkripcija, pseudonimizacija, korišćenje privremene korisničke identifikacije (“user ID”) koja se menja prilikom prikupljanja podataka o blizini preko “bluetooth” tehnologije i slično;
-
-- izvorni kod aplikacije bi trebalo da bude javno dostupan i predmet kontrole javnosti.
-
 ## Video nadzor
 
 Video nadzor, a pogotovo onaj koji podrazumeva tehnologiju prepoznavanja lica (eng. facial recognition) takođe je našao primenu u borbi protiv COVID-a 19, što dodatno ugroožava privatnost građana. Kina prednjači u razvoju video nadzora za svrhe suzbijanja pandemije, a tamošnja pametna tehnologija omogućava ne samo prepoznavanje ljudi koji nose maske, nego čak i merenje temperature lica koja ulaze u vidno polje kamere sa termalnom tehnologijom. Gradske vlasti u Moskvi koriste svoj ekstenzivni sistem od čak 170.000 kamera za proveru da li ljudi u karantinu poštuju propisane mere. Za video nadzor pojedine zemlje koriste i dronove.
@@ -288,7 +266,7 @@ Za određene vrste masovnog nadzora posebno važna mogu biti i prava građana ko
 
 Takva praksa je izuzetno dozvoljena ako je lice na to pristalo, ili je obrada neophodna radi zaključenja i izvršenja ugovora gde je to lice ugovorna strana, ili kada ovakvu obradu eksplicitno reguliše neki zakon. Kada se obrada vrši prema prva dva izuzetka, građanin u svakom slučaju ima pravo da se obezbedi učešće fizičkog lica u donošenju odluke, pravo da izrazi svoj stav u vezi sa odlukom, kao i pravo da ospori odluku pred ovlašćenim licem rukovaoca.
 
-# Zaključak
+# ZAKLJUČAK
 
 Pravila i principi evropskog režima zaštite podataka o ličnosti, kojem je prilagođena i regulativa u Srbiji, dovoljno su opšti da se u potpunosti mogu primenjivati i u vanrednim okolnostima borbe protiv pandemije. Garancije koje pruža Ustav Srbije i niz međunarodnih ugovora, na snazi su i dalje.
 
@@ -300,18 +278,22 @@ S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophod
 
 # Resursi
 
-###### [Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs/sr/)
+[Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs/sr/)
 
-###### [European Board for Data Protection](https://edpb.europa.eu/edpb_en)
+[European Board for Data Protection](https://edpb.europa.eu/edpb_en)
 
-###### [European Data Protection Supervisor](https://edps.europa.eu/)
+[European Data Protection Supervisor](https://edps.europa.eu/)
 
-###### [Information Commissioner's Office](https://ico.org.uk/)
+[Information Commissioner's Office](https://ico.org.uk/)
 
-###### [Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
+[Vodič kroz Zakon o zaštiti podataka o ličnosti i GDPR - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
 
-Impresum
-Urednici: **Danilo Krivokapić i Đorđe Krivokapić**
-Autori: **Jelena Adamović, Dunja Tasić, Jelena Kleut, Nina Nicović, Kristina Kalajdžić, Damjan Mileusnić, Danilo Krivokapić i Đorđe Krivokapić**
-Dizajn: **Kristina Pavlak**
+# Impresum
+
+Urednici: **Danilo Krivokapić i Đorđe Krivokapić** 
+
+Autori: **Jelena Adamović, Danilo Krivokapić, Dunja Tasić, Jelena Kleut, Nina Nicović, Kristina Kalajdžić, Damjan Mileusnić i Đorđe Krivokapić** 
+
+Dizajn: **Kristina Pavlak** 
+
 Obrada teksta: **Milica Jovanović i Bojan Perkov**
