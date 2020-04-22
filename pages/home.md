@@ -286,7 +286,7 @@ S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophod
 
 [Information Commissioner's Office](https://ico.org.uk/)
 
-[Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
+[Vodič kroz Zakon o zaštiti podataka o ličnosti i GDPR - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
 
 # Impresum
 
