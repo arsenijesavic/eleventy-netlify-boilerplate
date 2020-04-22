@@ -88,7 +88,7 @@ Iako detaljno reguliše kategorije lica čiji se podaci moraju naći u ovom sist
 
 Institut za javno zdravlje „Dr Milan Jovanović Batut” (Institut Batut) ima obavezu da podatke iz Informacionog sistema Covid-19 dostavlja Ministarstvu zdravlja na dnevnom nivou, u cilju pripreme izveštaja i objavljivanja pseudonimizovanih podataka za javnost. Iako se ovde koristi izraz "pseudonimizovani podaci" objavljeni podaci bi svakako morali biti anonimizovani kako na osnovu njih ne bi mogla da se izvrši identifikacija lica na koje se odnose.
 
-![alt text](/static/img/share-vodic-infografik-sa-pozadinom-02.png "Logo Title Text 1")
+![alt text](/static/img/share-vodic-tabele-02.png "Logo Title Text 1")
 
 > #### Pravna nesigurnost
 >
@@ -138,7 +138,7 @@ U redovnim okolnostima, poslodavci obrađuju određene podatke o zdravlju zaposl
 
 Od svih situacija iz ZZPL-a koje omogućavaju takvu izuzetnu obradu, za poslodavce se posebno relevantnim čine odredbe prema kojima je obrada dozvoljena ako je neophodna u cilju: 1) zaštite životno važnih interesa nekog fizičkog lica, ili 2) ostvarivanja javnog interesa u oblasti javnog zdravlja, kao što je zaštita od ozbiljnih prekograničnih pretnji zdravlju stanovništva (član 17, stav 1, tačke 3 i 9 ZZPL).
 
-![](/static/img/share-vodic-tabela-manja-12.png)
+![](/static/img/share-vodic-tabele-12.png)
 
 ## Postupanje i obaveze poslodavca u prevenciji zaraze
 
@@ -198,7 +198,7 @@ Tokom pandemije COVID-a 19 različiti tehnološki alati koji podrazumevaju masov
 
 Nadzor može biti vršen praćenjem geolokacije, video nadzorom, korišćenjem mobilnih aplikacija i slično, a često i kombinacijom ovih metoda. Mada se neka od rešenja mogu pokazati korisnim, raste zabrinutost da bi se nakon završetka pandemije prikupljeni podaci mogli zloupotrebiti, kao i da bi se društva mogla navići na pojačani nadzor i intruzivne mere, i prihvatiti ih kao novi standard života.
 
-![](/static/img/share-vodic-ilustracija-13.png)
+![](/static/img/share-vodic-tabele-13.png)
 
 Primera radi, kineska vlada zahteva od građana da na svoje mobilne telefone instaliraju softver koji će svakoj osobi dodeliti kod u crvenoj, žutoj ili zelenoj boji, u zavisnosti od nivoa rizika od zaraze, i time odrediti ko će morati da ide u karantin, a ko ne. U regionu je puno pažnje izazvala aplikacija koja, u zavisnosti od lokacije korisnika, prikazuje najbliže adrese i imena građana Crne Gore kojima su izdata rešenja o obaveznoj samoizolaciji, a čiji se lični podaci objavljuju na internet stranici Vlade Crne Gore.
 
