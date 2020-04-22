@@ -124,13 +124,13 @@ Nakon pandemije, kao posebno važno se otvara pitanje brisanja podataka koji su 
 
 Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani imaju i određene obaveze, koje su usmerene na to da se pandemija suzbije što efikasnije. Tako Zakon o zaštiti stanovništa od zaraznih bolesti propisuje da je lice koje daje podatke u postupku epidemiološkog ispitivanja dužno da govori istinu i da daje tačne i potpune podatke od značaja za otkrivanje rezervoara, izvora i načina prenošenja zarazne bolesti, kao i da se, po potrebi, podvrgne određenim medicinskim ispitivanjima. Lica koja ne poštuju ovu i niz drugih obaveza, mogu prekršajno odgovarati.
 
-# Obrada podataka u radnom okruženju
+# OBRADA PODATAKA U RADNOM OKRUŽENJU
 
-> * Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.
-> * Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.
-> * Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.
-> * Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.
-> * Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.
+> * **Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.**
+> * **Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.**
+> * **Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.**
+> * **Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.**
+> * **Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.**
 
 ## Zdravstveni podaci u radnom okruženju
 
@@ -184,13 +184,13 @@ Ukoliko zaposleni smatra da nove prakse poslodavca nisu u skladu sa ZZPL, najpre
 
 Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom slučaju mogu obratiti Povereniku koji u postupku nadzora može utvrditi da li je nova vrsta obrade zakonita tj. neophodna u konkretnim okolnostima.
 
-# Masovna obrada podataka
+# MASOVNA OBRADA PODATAKA
 
-> * Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.
-> * Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.
-> * Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.
-> * Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.
-> * Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.
+> * **Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.**
+> * **Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.**
+> * **Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.**
+> * **Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.**
+> * **Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.**
 
 ## Mehanizmi za masovnu obradu podataka
 
@@ -278,15 +278,15 @@ S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophod
 
 # Resursi
 
-###### [Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs/sr/)
+[Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs/sr/)
 
-###### [European Board for Data Protection](https://edpb.europa.eu/edpb_en)
+[European Board for Data Protection](https://edpb.europa.eu/edpb_en)
 
-###### [European Data Protection Supervisor](https://edps.europa.eu/)
+[European Data Protection Supervisor](https://edps.europa.eu/)
 
-###### [Information Commissioner's Office](https://ico.org.uk/)
+[Information Commissioner's Office](https://ico.org.uk/)
 
-###### [Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
+[Vodič kroz zaštitu podataka o ličnosti - SHARE Fondacija](https://www.sharefoundation.info/Documents/vodic_zzpl_gdpr_share_2019.pdf)
 
 # Impresum
 
