@@ -1,6 +1,6 @@
 ---
 layout: layouts/home.njk
-title: Home
+title: Vodič za zaštitu podataka za vreme pandemije
 image: /static/img/hero.png
 permalink: /
 ---
