@@ -88,7 +88,7 @@ Iako detaljno reguliše kategorije lica čiji se podaci moraju naći u ovom sist
 
 Institut za javno zdravlje „Dr Milan Jovanović Batut” (Institut Batut) ima obavezu da podatke iz Informacionog sistema Covid-19 dostavlja Ministarstvu zdravlja na dnevnom nivou, u cilju pripreme izveštaja i objavljivanja pseudonimizovanih podataka za javnost. Iako se ovde koristi izraz "pseudonimizovani podaci" objavljeni podaci bi svakako morali biti anonimizovani kako na osnovu njih ne bi mogla da se izvrši identifikacija lica na koje se odnose.
 
-![alt text](static/img/viz-large.png "Logo Title Text 1")
+![alt text](/static/img/is-covid.png "Logo Title Text 1")
 
 > #### Pravna nesigurnost
 >
