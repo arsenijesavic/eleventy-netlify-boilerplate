@@ -4,7 +4,7 @@ title: Home
 image: /static/img/hero.png
 permalink: /
 ---
-# Uvod
+# UVOD
 
 Globalna kriza javnog zdravlja u značajnoj meri izmešta fokus odluka sa prava pojedinaca na interes zajednice. Čini se da je zaštita podataka o ličnosti izložena naročito teškom testu, s obzirom na tehničke mogućnosti masovnog prikupljanja i obrade u okolnostima kada je suzbijanje pandemije primarni cilj celokupne javnosti. Po prvi put od donošenja Opšte uredbe o zaštiti podataka (eng. General Data Protection Regulation, GDPR), odnosno našeg Zakona o zaštiti podataka o ličnosti (Zakon ili ZZPL), potrebna je učestalija primena odredbi ovih propisa, dok su se istovremeno njihova načela našla na ozbiljnom ispitu. U kojoj su meri ustanovljeni standardi primenjivi na situaciju u kojoj se nalazimo? Gde ih eventualno treba pooštriti, gde možda sniziti, a u kojim situacijama bi trebalo da ostanu isti?
 
@@ -46,13 +46,13 @@ Fizička lica čiji se podaci obrađuju i u uslovima vanrednog stanja mogu ostva
 
 Ako smatraju da su njihovi podaci o ličnosti obrađivani suprotno ZZPL-u, građani imaju na raspolaganju dva procesna puta: (i) pravo na pritužbu Povereniku, kao i pravo da protiv odluke Poverenika po pritužbi pokrenu upravni spor (ii) mogućnost pokretanja sudskog spora zbog povrede prava, pri čemu u sudskom postupku lice može zahtevati određeno činjenje ili naknadu materijalne i/ili nematerijalne štete u skladu sa pravilima Zakona o obligacionim odnosima.
 
-# Obrada podataka o obolelim, testiranim i rizičnim licima
+# OBRADA PODATAKA O OBOLELIM, TESTIRANIM I RIZIČNIM LICIMA
 
-> * Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.
-> * Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.
-> * Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.
-> * Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.
-> * Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.
+> * **Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.**
+> * **Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.**
+> * **Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.**
+> * **Izveštavanje o obolelim testiranim i rizičnim licima mora biti u javnom interesu i uz poštovanje dostojanstva i privatnosti.**
+> * **Sva prava koje pacijentu imaju, uključujući prava vezana za informisanje i zaštitu privatnosti, aktivna su bez obzira na okolnosti.**
 
 ## Zaštita podataka o ličnosti u zdravstvenom sistemu
 
