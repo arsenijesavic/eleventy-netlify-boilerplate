@@ -96,7 +96,9 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary(
     "md",
-    markdownIt(options).use(markdownItAnchor, opts)
+    markdownIt(options)
+      .use(markdownItAnchor, opts)
+      .use(require("markdown-it-footnote"))
   );
 
   return {

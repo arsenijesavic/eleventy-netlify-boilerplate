@@ -6,6 +6,29 @@
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;700&display=swap" rel="stylesheet">
 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link rel="canonical" href="http://pandemija.mojipodaci.rs/">
+  <meta name="referrer" content="no-referrer-when-downgrade">
+
+  <meta property="og:site_name" content="DACIDA Blog">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ title or renderData.title or metadata.title }}">
+  {# <meta property="og:description" content="Rođena je u Beogradu 1996 i od malih nogu krece da žvrlja po zidovima. Master student Fakulteta Primenjenih umetnosti - smer vajarstvo, ali najveću sreću nalazi u fotografiji!"> #}
+  <meta property="og:url" content="http://pandemija.mojipodaci.rs/">
+  <meta property="og:image" content="/static/img/hero.png">
+  <meta property="og:image:width" content="5335">
+  <meta property="og:image:height" content="2641">
+
+  <meta property="article:publisher" content="https://www.facebook.com/wearedacida">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ title or renderData.title or metadata.title }}">
+  {# <meta name="twitter:description" content="Rođena je u Beogradu 1996 i od malih nogu krece da žvrlja po zidovima. Master student Fakulteta Primenjenih umetnosti - smer vajarstvo, ali najveću sreću nalazi u fotografiji!"> #}
+  <meta name="twitter:url" content="http://pandemija.mojipodaci.rs/">
+  <meta name="twitter:image" content="/static/img/hero.png">
+
+
+
+
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}

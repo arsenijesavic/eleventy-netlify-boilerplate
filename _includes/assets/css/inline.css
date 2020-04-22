@@ -98,6 +98,7 @@ h1 {
   border-top: 2px solid #808080;
   padding-top: 4rem;
   font-size: 1.875rem;
+  text-transform: uppercase;
 }
 
 h2 {
@@ -331,7 +332,8 @@ blockquote {
   padding: 1rem 1rem 0;
 }
 
-.bg-orange {
+.disclaimer {
+  margin-top: 3rem;
   background-color: #808080;
   padding: 1rem;
   color: white;
