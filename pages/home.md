@@ -8,15 +8,7 @@ seoImage: /static/img/sm_preview.png
 permalink: /
 ---
 
-<<<<<<< HEAD
-
-# Uvod
-
-=======
-
 # UVOD
-
-> > > > > > > 116e51143b34b295270234dd33810ec0bb085233
 
 Globalna kriza javnog zdravlja u značajnoj meri izmešta fokus odluka sa prava pojedinaca na interes zajednice. Čini se da je zaštita podataka o ličnosti izložena naročito teškom testu, s obzirom na tehničke mogućnosti masovnog prikupljanja i obrade u okolnostima kada je suzbijanje pandemije primarni cilj celokupne javnosti. Po prvi put od donošenja Opšte uredbe o zaštiti podataka (eng. General Data Protection Regulation, **GDPR**),[^1] odnosno našeg Zakona o zaštiti podataka o ličnosti (**Zakon** ili **ZZPL**),[^2] potrebna je učestalija primena odredbi ovih propisa, dok su se istovremeno njihova načela našla na ozbiljnom ispitu. U kojoj su meri ustanovljeni standardi primenjivi na situaciju u kojoj se nalazimo? Gde ih eventualno treba pooštriti, gde možda sniziti, a u kojim situacijama bi trebalo da ostanu isti?
 
@@ -24,7 +16,6 @@ U ovom Vodiču razmatramo neke od najaktuelnijih tema u doba pandemije bolesti C
 
 ## Zaštita podataka o ličnosti za vreme vanrednog stanja
 
-<<<<<<< HEAD
 Pravnu sitaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je proglašeno 16. marta 2020. godine.[^3] **Ustav Republike Srbije**[^4] omogućava da tokom vanrednog stanja Vlada može da propiše mere kojima se odstupa od određenih Ustavom zajemčenih ljudskih i manjinskih prava, među kojima su pravo na tajnost pisama i drugih sredstava opštenja, zaštitu podataka o ličnosti, slobodu mišljenja i izražavanja, slobodu medija ili pravo na obaveštenost. Međutim, do sada, ova zajamčena prava nisu ograničena posebnim merama Vlade. Stoga se u potpunosti primenjuje redovan zakonski režim koji reguliše obradu podataka o ličnosti. Ipak, činjenica da se Srbija nalazi u vanrednom stanju svakako može da utiče na način na koji se pravne norme tumače u trenutnim okolnostima.
 
 # Treba imati u vidu da je **Savet Evrope** svojim članicama dao preporuke za suočavanje sa situacijom koja je nazvana nezapamćenom i masovnom sanitarnom krizom, sa ciljem da obezbedi poštovanje osnovnih vrednosti demokratije, vladavine prava i ljudskih prava.[^5] Što se zaštite podataka o ličnosti i privatnosti građana tiče, iako je priznat značaj koji digitalne tehnologije mogu da imaju na suzbijanje pandemije, istaknuta je i važnost poštovanja pravila koja su sadržana u **Konvenciji 108+**.[^6] Konvencija dozvoljava izuzeća od redovnih pravila o zaštiti podataka, **ali** u ograničenom vremenskom periodu, uz odgovarajuće mere zaštite (npr. anonimizacija) i efikasan nadzor, kako bi se osiguralo da se podaci o ličnosti prikupljaju, analiziraju, čuvaju i dele na zakonite i odgovorne načine.
@@ -32,8 +23,6 @@ Pravnu sitaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je
 Pravnu situaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je proglašeno 15. marta 2020. godine.\[^3] **Ustav Republike Srbije**\[^4] omogućava da tokom vanrednog stanja Vlada može da propiše mere kojima se odstupa od određenih Ustavom zajemčenih ljudskih i manjinskih prava, među kojima su pravo na tajnost pisama i drugih sredstava opštenja, zaštitu podataka o ličnosti, slobodu mišljenja i izražavanja, slobodu medija ili pravo na obaveštenost. Međutim, do sada, ova zajamčena prava nisu ograničena posebnim merama Vlade. Stoga se u potpunosti primenjuje redovan zakonski režim koji reguliše obradu podataka o ličnosti. Ipak, činjenica da se Srbija nalazi u vanrednom stanju svakako može da utiče na način na koji se pravne norme tumače u trenutnim okolnostima.
 
 Treba imati u vidu da je **Savet Evrope** svojim članicama dao preporuke za suočavanje sa situacijom koja je nazvana nezapamćenom i masovnom sanitarnom krizom, sa ciljem da obezbedi poštovanje osnovnih vrednosti demokratije, vladavine prava i ljudskih prava.\[^5] Što se zaštite podataka o ličnosti i privatnosti građana tiče, iako je priznat značaj koji digitalne tehnologije mogu da imaju na suzbijanje pandemije, istaknuta je i važnost poštovanja pravila koja su sadržana u **Konvenciji 108+**.\[^6] Konvencija dozvoljava izuzeća od redovnih pravila o zaštiti podataka, ali u ograničenom vremenskom periodu, uz odgovarajuće mere zaštite (npr. anonimizacija) i efikasan nadzor, kako bi se osiguralo da se podaci o ličnosti prikupljaju, analiziraju, čuvaju i dele na zakonite i odgovorne načine.
-
-> > > > > > > 116e51143b34b295270234dd33810ec0bb085233
 
 Što se masovne i automatizovane obrade ličnih podataka tiče, ona bi trebalo bi da se vrši samo kada naučni dokazi uverljivo pokažu da potencijalne dobrobiti za javno zdravlje nadmašuju koristi alternativnih, manje invazivnih rešenja.
 
@@ -57,12 +46,9 @@ Za obradu **posebnih vrsta podataka**,[^8] kao što su podaci o zdravlju nekog l
 
 ![alt text](static/img/viz3.png "Logo Title Text 1")
 
-<<<<<<< HEAD
 Poverenik je ukazao da, sa stanovišta primene ZZPL-a, **„nema smetnji za obradu podataka o zdravstvenom stanju lica** kada je ona **zasnovana na važećim propisima,** uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i **uz poštovanje svih načela obrade iz člana 5 ZZPL**-a**”**.[^10]
-=======
-Poverenik je ukazao da, sa stanovišta primene ZZPL-a, **„nema smetnji za obradu podataka o zdravstvenom stanju lica** kada je ona **zasnovana na važećim propisima,** uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i **uz poštovanje svih načela obrade iz člana 5 ZZPL-a”**.\[^10]
 
-> > > > > > > 116e51143b34b295270234dd33810ec0bb085233
+Poverenik je ukazao da, sa stanovišta primene ZZPL-a, **„nema smetnji za obradu podataka o zdravstvenom stanju lica** kada je ona **zasnovana na važećim propisima,** uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i **uz poštovanje svih načela obrade iz člana 5 ZZPL-a”**.\[^10]
 
 Prema stavu Poverenika, „obrada podataka o licima inficiranim i obolelim od COVID-a 19 u **svrhe naučnog istraživanja**, nije u suprotnosti sa ZZPL-om, s tim što ulogu rukovaoca može imati samo organizacija koja je, u skladu sa zakonom, registrovana za obavljanje naučnoistraživačke delatnosti i koja je odgovorna za postupanje u skladu sa ZZPL-om”.[^11]
 
@@ -156,8 +142,6 @@ Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani i
 
 # OBRADA PODATAKA U RADNOM OKRUŽENJU
 
-<<<<<<< HEAD
-
 > - **Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.**
 > - **Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.**
 > - **Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.**
@@ -170,7 +154,6 @@ Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani i
 > - **Rad na daljinu ne bi trebalo da dovede do neopravdanog praćenja zaposlenih korišćenjem digitalnih tehnologija.**
 > - **Mere zaštite podataka moraju da budu prilagođene novim uslovima i izazovima rada od kuće.**
 > - **Zaposleni moraju biti obavešteni o novim praksama obrade njihovih podataka i imaju pravo da ulože prigovor ukoliko su te prakse neopravdane.**
->   > > > > > > 116e51143b34b295270234dd33810ec0bb085233
 
 ## Zdravstveni podaci u radnom okruženju
 
@@ -226,8 +209,6 @@ Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom
 
 # MASOVNA OBRADA PODATAKA
 
-<<<<<<< HEAD
-
 > - **Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.**
 > - **Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.**
 > - **Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.**
@@ -240,7 +221,6 @@ Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom
 > - **Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.**
 > - **Aplikacije za praćenje kontakata bi trebalo da se koriste samo uz dobrovoljno učešće građana.**
 > - **Anonimizovane podatke treba koristiti uvek kada se tako može ispuniti svrha.**
->   > > > > > > 116e51143b34b295270234dd33810ec0bb085233
 
 ## Mehanizmi za masovnu obradu podataka
 
@@ -248,14 +228,11 @@ Tokom pandemije COVID-a 19 različiti tehnološki alati koji podrazumevaju masov
 
 Nadzor može biti vršen praćenjem geolokacije, video nadzorom, korišćenjem mobilnih aplikacija i slično, a često i kombinacijom ovih metoda. Mada se neka od rešenja mogu pokazati korisnim, raste zabrinutost da bi se nakon završetka pandemije prikupljeni podaci mogli zloupotrebiti, kao i da bi se društva mogla navići na pojačani nadzor i intruzivne mere, i prihvatiti ih kao novi standard života.
 
-<<<<<<< HEAD
 ![](/static/img/share-vodic-tabele-13.png)
 
 # Primera radi, kineska vlada zahteva od građana da na svoje mobilne telefone instaliraju softver koji će svakoj osobi dodeliti kod u crvenoj, žutoj ili zelenoj boji, u zavisnosti od nivoa rizika od zaraze, i time odrediti ko će morati da ide u karantin, a ko ne.[^59] U regionu je puno pažnje izazvala aplikacija koja, u zavisnosti od lokacije korisnika, prikazuje najbliže adrese i imena građana Crne Gore kojima su izdata rešenja o obaveznoj samoizolaciji, a čiji se lični podaci objavljuju na internet stranici Vlade Crne Gore.[^60]
 
 Primera radi, kineska vlada zahteva od građana da na svoje mobilne telefone instaliraju softver koji će svakoj osobi dodeliti kod u crvenoj, žutoj ili zelenoj boji, u zavisnosti od nivoa rizika od zaraze, i time odrediti ko će morati da ide u karantin, a ko ne.\[^59] U regionu je puno pažnje izazvala aplikacija koja, u zavisnosti od lokacije korisnika, prikazuje najbliže adrese i imena građana Crne Gore kojima su izdata rešenja o obaveznoj samoizolaciji, a čiji se lični podaci objavljuju na internet stranici Vlade Crne Gore.\[^60]
-
-> > > > > > > 116e51143b34b295270234dd33810ec0bb085233
 
 Indicije o primeni **masovnog nadzora stanovništva zarad suzbijanja pandemije u Srbiji**, dao je predsednik u izjavi o praćenju geolokacija telefona ljudi koji su se vratili iz Italije kako bi se utvrdilo da li poštuju propisane mere.[^61] O ovom i “još jednom načinu” praćenja precizinih informacija nema, a izostala su i pojašnjenja o pravnom osnovu i procedurama koje bi omogućile masovni nadzor.
 
