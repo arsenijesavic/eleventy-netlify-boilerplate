@@ -41,7 +41,7 @@ Za obradu **posebnih vrsta podataka**,\[^8] kao što su podaci o zdravlju nekog 
 
 ![alt text](static/img/viz3.png "Logo Title Text 1")
 
-Poverenik je ukazao da, sa stanovišta primene ZZPL-a, **„nema smetnji za obradu podataka o zdravstvenom stanju lica** kada je ona **zasnovana na važećim propisima,** uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i **uz poštovanje svih načela obrade iz člana 5 ZZPL**-a**”**.\[^10]
+Poverenik je ukazao da, sa stanovišta primene ZZPL-a, **„nema smetnji za obradu podataka o zdravstvenom stanju lica** kada je ona **zasnovana na važećim propisima,** uključujući i akte koje nadležni državni organi donose u uslovima vanrednog stanja, kao i da se obrada ovih podataka može vršiti u granicama ovlašćenja i **uz poštovanje svih načela obrade iz člana 5 ZZPL-a”**.\[^10]
 
 Prema stavu Poverenika, „obrada podataka o licima inficiranim i obolelim od COVID-a 19 u **svrhe naučnog istraživanja**, nije u suprotnosti sa ZZPL-om, s tim što ulogu rukovaoca može imati samo organizacija koja je, u skladu sa zakonom, registrovana za obavljanje naučnoistraživačke delatnosti i koja je odgovorna za postupanje u skladu sa ZZPL-om”.\[^11]
 
