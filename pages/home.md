@@ -1,7 +1,9 @@
 ---
 layout: layouts/home.njk
-title: Vodič za zaštitu podataka za vreme pandemije
-image: /static/img/hero.png
+title: Vodič za zaštitu podataka u vreme pandemije
+summary: "Najaktuelnije teme u vezi privatnosti i zaštite podataka u doba pandemije bolesti COVID-19."
+cover: /static/img/hero.png
+seoImage: /static/img/hero.png
 permalink: /
 ---
 
@@ -303,8 +305,10 @@ Dizajn: **Kristina Pavlak**
 
 Obrada teksta: **Milica Jovanović i Bojan Perkov**
 
+Web development: Arsenije Savić
+
 <p class='disclaimer'>
-  Ovaj vodič je proizveden uz finansijsku pomoć Evropske unije, Fondacije za otvoreno društvo Srbija i  Balkanski fond za demokratiju, Nemačkog Maršalovog fonda SAD . Sadržaj ovog vodiča je isključiva odgovornost autora i ne može se, ni pod kojim uslovima, smatrati odrazom stavova donatora.
+  Ovaj vodič je proizveden uz finansijsku pomoć Evropske unije, Fondacije za otvoreno društvo Srbija i Balkanskog fonda za demokratiju, Nemačkog Maršalovog fonda SAD . Sadržaj ovog vodiča je isključiva odgovornost autora i ne može se, ni pod kojim uslovima, smatrati odrazom stavova donatora.
 </p>
 <!-- Footnotes themselves at the bottom. -->
 

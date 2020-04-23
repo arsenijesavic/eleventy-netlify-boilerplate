@@ -74,8 +74,9 @@ header h1 {
 
 aside {
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  /* align-items: center; */
+  align-items: center;
   /* min-height: 100vh; */
   font-size: 1rem;
   margin: 4em 0;

@@ -6,7 +6,7 @@
 	<body>
 		<div id="_progress"></div>
 		<header>
-			<img src="/static/img/hero.png" alt="">
+			<img src="{{cover}}" alt="">
 			{# <h1>{{ metadata.title }}</h1> #}
 			{# <em>
 				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
@@ -16,10 +16,12 @@
 		</header>
 
 		<aside>
+			<h2>Sadržaj</h2>
   		{{ content | toc | safe }}
 		</aside>
 
 		<section>
+
 			{# <aside>
 				{{ content | toc | safe }}
 			</aside> #}
