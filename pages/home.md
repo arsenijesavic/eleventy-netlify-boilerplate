@@ -55,6 +55,8 @@ Ako smatraju da su njihovi podaci o ličnosti obrađivani suprotno ZZPL-u, građ
 
 # OBRADA PODATAKA O OBOLELIM, TESTIRANIM I RIZIČNIM LICIMA
 
+![](/static/img/share-vodic-tabele-i-header-10.png)
+
 > * **Prilikom postupanja sa zdravstvenim podacima obavezna je primena sektorskih zakona u oblasti zdravstva uz poštovanje principa i prava građana iz ZZPL.** 
 > * **Epidemiološkim podacima koje u skladu sa svojim ovlašćenjima obrađuje sistem javnog zdravstva, drugi organi smeju da pristupaju samo ako je to neophodno za suzbijanje epidemije.**
 > * **Lica u postupku epidemiološkog ispitivanja su dužna da pruže potpune i istinite podatke.**
@@ -132,6 +134,8 @@ Nakon pandemije, kao posebno važno se otvara pitanje **brisanja podataka** koji
 Najzad, pored prava koja imaju u vezi sa svojim podacima o ličnosti, građani imaju i određene obaveze, koje su usmerene na to da se pandemija suzbije što efikasnije. Tako Zakon o zaštiti stanovništa od zaraznih bolesti propisuje da je **lice koje daje podatke u postupku epidemiološkog ispitivanja dužno da govori istinu** i da **daje tačne i potpune podatke od značaja za otkrivanje rezervoara, izvora i načina prenošenja zarazne bolesti**, kao i da se, po potrebi, **podvrgne određenim medicinskim ispitivanjima**. Lica koja ne poštuju ovu i niz drugih obaveza, mogu prekršajno odgovarati.
 
 # OBRADA PODATAKA U RADNOM OKRUŽENJU
+
+![](/static/img/share-vodic-tabele-i-header-10.png)
 
 > * **Poslodavci mogu da obrađuju zdravstvene i druge podatke zaposlenih u cilju prevencije uz poštovanje principa ograničenja svrhom, poštenja i minimizacije.**
 > * **Podaci o zaposlenima koji su zaraženi mogu se koristiti za prevenciju, ali se moraju tretirati kao poverljivi.**
