@@ -7,7 +7,7 @@ const Page = createClass({
   render() {
     const entry = this.props.entry;
 
-    const image = entry.getIn(["data", "image"]);
+    const image = entry.getIn(["data", "cover"]);
     const bg = this.props.getAsset(image);
 
     return html`
