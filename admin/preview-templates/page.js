@@ -8,13 +8,14 @@ const Page = createClass({
     const entry = this.props.entry;
 
     return html`
-      <main>
-        <h1>${entry.getIn(["data", "title"], null)}</h1>
-
-        ${this.props.widgetFor("body")}
-      </main>
+      <header>
+        <img src="${this.props.widgetFor("cover")}" alt="" />
+      </header>
+      <section>
+        <main>${this.props.widgetFor("body")}</main>
+      </section>
     `;
-  }
+  },
 });
 
 export default Page;
