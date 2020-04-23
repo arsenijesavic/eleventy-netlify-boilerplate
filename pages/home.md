@@ -283,7 +283,7 @@ Konačno, kako se podseća u zajedničkom saopštenju komiteta Konvencije 108 i 
 
 S pravom očekujemo da će ukidanje onih intruzivnih mera koje jesu bile neophodne, uskoro biti jedan od prvih znakova da je borba za suzbijanje pandemije okončana uspešno.
 
-# Resursi
+# RESURSI
 
 [Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti](https://www.poverenik.rs/sr/)
 
