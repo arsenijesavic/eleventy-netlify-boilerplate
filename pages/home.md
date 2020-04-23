@@ -15,9 +15,9 @@ U ovom Vodiču razmatramo neke od najaktuelnijih tema u doba pandemije bolesti C
 
 ## Zaštita podataka o ličnosti za vreme vanrednog stanja
 
-Pravnu sitaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je proglašeno 16. marta 2020. godine.\[^3] **Ustav Republike Srbije**\[^4] omogućava da tokom vanrednog stanja Vlada može da propiše mere kojima se odstupa od određenih Ustavom zajemčenih ljudskih i manjinskih prava, među kojima su pravo na tajnost pisama i drugih sredstava opštenja, zaštitu podataka o ličnosti, slobodu mišljenja i izražavanja, slobodu medija ili pravo na obaveštenost. Međutim, do sada, ova zajamčena prava nisu ograničena posebnim merama Vlade. Stoga se u potpunosti primenjuje redovan zakonski režim koji reguliše obradu podataka o ličnosti. Ipak, činjenica da se Srbija nalazi u vanrednom stanju svakako može da utiče na način na koji se pravne norme tumače u trenutnim okolnostima.
+Pravnu situaciju u Srbiji tokom pandemije bitno određuje vanredno stanje koje je proglašeno 15. marta 2020. godine.\[^3] **Ustav Republike Srbije**\[^4] omogućava da tokom vanrednog stanja Vlada može da propiše mere kojima se odstupa od određenih Ustavom zajemčenih ljudskih i manjinskih prava, među kojima su pravo na tajnost pisama i drugih sredstava opštenja, zaštitu podataka o ličnosti, slobodu mišljenja i izražavanja, slobodu medija ili pravo na obaveštenost. Međutim, do sada, ova zajamčena prava nisu ograničena posebnim merama Vlade. Stoga se u potpunosti primenjuje redovan zakonski režim koji reguliše obradu podataka o ličnosti. Ipak, činjenica da se Srbija nalazi u vanrednom stanju svakako može da utiče na način na koji se pravne norme tumače u trenutnim okolnostima.
 
-Treba imati u vidu da je **Savet Evrope** svojim članicama dao preporuke za suočavanje sa situacijom koja je nazvana nezapamćenom i masovnom sanitarnom krizom, sa ciljem da obezbedi poštovanje osnovnih vrednosti demokratije, vladavine prava i ljudskih prava.\[^5] Što se zaštite podataka o ličnosti i privatnosti građana tiče, iako je priznat značaj koji digitalne tehnologije mogu da imaju na suzbijanje pandemije, istaknuta je i važnost poštovanja pravila koja su sadržana u **Konvenciji 108+**.\[^6] Konvencija dozvoljava izuzeća od redovnih pravila o zaštiti podataka, **ali** u ograničenom vremenskom periodu, uz odgovarajuće mere zaštite (npr. anonimizacija) i efikasan nadzor, kako bi se osiguralo da se podaci o ličnosti prikupljaju, analiziraju, čuvaju i dele na zakonite i odgovorne načine.
+Treba imati u vidu da je **Savet Evrope** svojim članicama dao preporuke za suočavanje sa situacijom koja je nazvana nezapamćenom i masovnom sanitarnom krizom, sa ciljem da obezbedi poštovanje osnovnih vrednosti demokratije, vladavine prava i ljudskih prava.\[^5] Što se zaštite podataka o ličnosti i privatnosti građana tiče, iako je priznat značaj koji digitalne tehnologije mogu da imaju na suzbijanje pandemije, istaknuta je i važnost poštovanja pravila koja su sadržana u **Konvenciji 108+**.\[^6] Konvencija dozvoljava izuzeća od redovnih pravila o zaštiti podataka, ali u ograničenom vremenskom periodu, uz odgovarajuće mere zaštite (npr. anonimizacija) i efikasan nadzor, kako bi se osiguralo da se podaci o ličnosti prikupljaju, analiziraju, čuvaju i dele na zakonite i odgovorne načine.
 
 Što se masovne i automatizovane obrade ličnih podataka tiče, ona bi trebalo bi da se vrši samo kada naučni dokazi uverljivo pokažu da potencijalne dobrobiti za javno zdravlje nadmašuju koristi alternativnih, manje invazivnih rešenja.
 
@@ -29,9 +29,7 @@ Naš Poverenik za informacije od javnog značaja i zaštitu podataka o ličnosti
 
 ZZPL koji je usaglašen sa pravilima GDPR-a i standardima Konvencije 108+, sadrži dovoljno opšta pravila koja mogu da se adekvatno primene i pod postojećim izuzetnim okolnostima. Takođe, postoje posebna pravila iz ZZPL-a koja se bave pitanjima zaštite života i javnog zdravlja, kao i obradom zdravstvenih podataka koji se smatraju posebno osetljivom vrstom podataka o ličnosti.
 
-Načela koja su sadržana u članu 5 ZZPL-a ostaju relevantna i za obrade koji se vrše u kontekstu suzbijanja korona virusa, i podrazumevaju sledeće:
-
-
+Načela koja su sadržana u članu 5 ZZPL-a ostaju relevantna i za obrade koje se vrše u kontekstu suzbijanja korona virusa, i podrazumevaju sledeće:
 
 ![alt text](static/img/viz2.png "Logo Title Text 1")
 
@@ -307,14 +305,14 @@ Dizajn: **Kristina Pavlak**
 
 Obrada teksta: **Milica Jovanović i Bojan Perkov**
 
-Web development: Arsenije Savić
+Web development: **Arsenije Savić**
 
 <p class='disclaimer'>
-  Ovaj vodič je proizveden uz finansijsku pomoć Evropske unije, Fondacije za otvoreno društvo Srbija i Balkanskog fonda za demokratiju, Nemačkog Maršalovog fonda SAD . Sadržaj ovog vodiča je isključiva odgovornost autora i ne može se, ni pod kojim uslovima, smatrati odrazom stavova donatora.
+  Ovaj vodič je proizveden uz finansijsku pomoć Evropske unije, Fondacije za otvoreno društvo Srbija i Balkanskog fonda za demokratiju Nemačkog Maršalovog fonda SAD. Sadržaj ovog vodiča je isključiva odgovornost autora i ne može se, ni pod kojim uslovima, smatrati odrazom stavova donatora.
 </p>
 <!-- Footnotes themselves at the bottom. -->
 
-#### Fusnote
+#### Reference
 
 \[^1]: Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation), dostupno [ovde](https://eur-lex.europa.eu/eli/reg/2016/679/oj). 
 
