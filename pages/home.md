@@ -3,8 +3,8 @@ layout: layouts/home.njk
 title: Vodič za zaštitu podataka u vreme pandemije
 summary: Najaktuelnije teme u vezi privatnosti i zaštite podataka u doba
   pandemije bolesti COVID-19.
-cover: /static/img/share-vodic-tabele-i-header-10.png
-seoImage: /static/img/hero.png
+cover: /static/img/page_cover.png
+seoImage: /static/img/sm_preview.png
 permalink: /
 ---
 # UVOD
