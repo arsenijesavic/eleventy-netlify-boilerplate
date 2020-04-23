@@ -1,7 +1,8 @@
 ---
 layout: layouts/home.njk
 title: Vodič za zaštitu podataka u vreme pandemije
-summary: "Najaktuelnije teme u vezi privatnosti i zaštite podataka u doba pandemije bolesti COVID-19."
+summary: Najaktuelnije teme u vezi privatnosti i zaštite podataka u doba
+  pandemije bolesti COVID-19.
 cover: /static/img/hero.png
 seoImage: /static/img/hero.png
 permalink: /
@@ -192,6 +193,8 @@ Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom
 
 # MASOVNA OBRADA PODATAKA
 
+![](/static/img/share-vodic-tabele-13.png)
+
 > * **Mere masovnog nadzora moraju biti zaista neophodne i efikasne u suzbijanju pandemije.**
 > * **Podaci građana se mogu masovno obrađivati u ovom kontekstu samo uz punu transparentnost i jasno informisanje javnosti.**
 > * **Pristup podacima o geolokaciji uređaja je dozvoljen samo uz saglasnost ili uz odluku suda.**
@@ -203,8 +206,6 @@ Ukoliko poslodavac ne uvaži zahteve i argumentaciju zaposlenih, oni se u svakom
 Tokom pandemije COVID-a 19 različiti tehnološki alati koji podrazumevaju masovni nadzor građana našli su primenu u pokušajima suzbijanja zaraze. Invazivnost ovakvih alata varira od zemlje do zemlje, ali se čini da u tome prednjače zemlje poput Kine, Izraela i Južne Koreje, mada mnogobrojne primere intruzivnog nadzora građana srećemo i u Evropi.\[^58]
 
 Nadzor može biti vršen praćenjem geolokacije, video nadzorom, korišćenjem mobilnih aplikacija i slično, a često i kombinacijom ovih metoda. Mada se neka od rešenja mogu pokazati korisnim, raste zabrinutost da bi se nakon završetka pandemije prikupljeni podaci mogli zloupotrebiti, kao i da bi se društva mogla navići na pojačani nadzor i intruzivne mere, i prihvatiti ih kao novi standard života.
-
-![](/static/img/share-vodic-tabele-13.png)
 
 Primera radi, kineska vlada zahteva od građana da na svoje mobilne telefone instaliraju softver koji će svakoj osobi dodeliti kod u crvenoj, žutoj ili zelenoj boji, u zavisnosti od nivoa rizika od zaraze, i time odrediti ko će morati da ide u karantin, a ko ne.\[^59] U regionu je puno pažnje izazvala aplikacija koja, u zavisnosti od lokacije korisnika, prikazuje najbliže adrese i imena građana Crne Gore kojima su izdata rešenja o obaveznoj samoizolaciji, a čiji se lični podaci objavljuju na internet stranici Vlade Crne Gore.\[^60]
 
